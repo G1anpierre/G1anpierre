@@ -43,7 +43,7 @@ const skills = {
       <h3 align="center">Crypto Exchange Rate</h3>
       <div align="center">
         <a href="https://github.com/G1anpierre/crypto-exchange-rate" target="_blank">
-          <img src="https://github.com/G1anpierre/G1anpierre/assets/22327132/crypto-exchange-preview.png" width="100%" alt="Crypto Exchange Rate"/>
+          <img src="https://user-images.githubusercontent.com/22327132/154852766-5d25a930-8af5-4f0e-9a5e-acaa3c9c6c3b.png" width="100%" alt="Crypto Exchange Rate"/>
         </a>
         <p>
           <a href="https://github.com/G1anpierre/crypto-exchange-rate" target="_blank">
@@ -60,7 +60,7 @@ const skills = {
       <h3 align="center">AI Mood Journal</h3>
       <div align="center">
         <a href="https://github.com/G1anpierre/NextJS-AI-langchain" target="_blank">
-          <img src="https://github.com/G1anpierre/G1anpierre/assets/22327132/ai-mood-journal-preview.png" width="100%" alt="AI Mood Journal"/>
+          <img src="https://user-images.githubusercontent.com/22327132/154852770-71a9a04d-1d13-4132-bf30-6ad95aceb25b.png" width="100%" alt="AI Mood Journal"/>
         </a>
         <p>
           <a href="https://github.com/G1anpierre/NextJS-AI-langchain" target="_blank">
@@ -79,7 +79,7 @@ const skills = {
       <h3 align="center">Real-time Chat Application</h3>
       <div align="center">
         <a href="https://github.com/G1anpierre/nextjs-socket-chat" target="_blank">
-          <img src="https://github.com/G1anpierre/G1anpierre/assets/22327132/chat-preview.png" width="100%" alt="Real-time Chat"/>
+          <img src="https://user-images.githubusercontent.com/22327132/154852773-39b876e3-155e-4178-8a03-762b53e13bb1.png" width="100%" alt="Real-time Chat"/>
         </a>
         <p>
           <a href="https://github.com/G1anpierre/nextjs-socket-chat" target="_blank">
@@ -96,7 +96,7 @@ const skills = {
       <h3 align="center">AWS Amplify Next.js Template</h3>
       <div align="center">
         <a href="https://github.com/G1anpierre/amplify-next-template" target="_blank">
-          <img src="https://github.com/G1anpierre/G1anpierre/assets/22327132/amplify-next-preview.png" width="100%" alt="AWS Amplify Template"/>
+          <img src="https://user-images.githubusercontent.com/22327132/154852778-d0e45ddf-5308-4946-a77b-e95d9a6b52ce.png" width="100%" alt="AWS Amplify Template"/>
         </a>
         <p>
           <a href="https://github.com/G1anpierre/amplify-next-template" target="_blank">
