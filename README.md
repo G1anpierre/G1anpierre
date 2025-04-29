@@ -76,37 +76,37 @@ const skills = {
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Real-time Chat Application</h3>
+      <h3 align="center">Reddit Fullstack Clone</h3>
       <div align="center">
-        <a href="https://github.com/G1anpierre/nextjs-socket-chat" target="_blank">
-          <img src="https://user-images.githubusercontent.com/22327132/154852773-39b876e3-155e-4178-8a03-762b53e13bb1.png" width="100%" alt="Real-time Chat"/>
+        <a href="https://github.com/G1anpierre/my-reddit-fullstack" target="_blank">
+          <img src="https://user-images.githubusercontent.com/22327132/154852773-39b876e3-155e-4178-8a03-762b53e13bb1.png" width="100%" alt="Reddit Fullstack Clone"/>
         </a>
         <p>
-          <a href="https://github.com/G1anpierre/nextjs-socket-chat" target="_blank">
+          <a href="https://github.com/G1anpierre/my-reddit-fullstack" target="_blank">
             <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=flat-square&logo=github"/>
           </a>
-          <a href="https://nextjs-socket-chat.vercel.app/" target="_blank">
+          <a href="https://my-reddit-fullstack.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/Demo-Visit%20Site-success?style=flat-square&logo=vercel"/>
           </a>
         </p>
-        <p><strong>Next.js 14, Socket.io, TypeScript</strong> - Feature-rich chat application with real-time messaging and room management</p>
+        <p><strong>Next.js 14, Prisma, NextUI, Tailwind</strong> - Full-featured Reddit clone with communities, posts, voting, and comments</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">AWS Amplify Next.js Template</h3>
+      <h3 align="center">Marilyn Store</h3>
       <div align="center">
-        <a href="https://github.com/G1anpierre/amplify-next-template" target="_blank">
-          <img src="https://user-images.githubusercontent.com/22327132/154852778-d0e45ddf-5308-4946-a77b-e95d9a6b52ce.png" width="100%" alt="AWS Amplify Template"/>
+        <a href="https://github.com/G1anpierre/marilyn-store-nextjs" target="_blank">
+          <img src="https://user-images.githubusercontent.com/22327132/154852778-d0e45ddf-5308-4946-a77b-e95d9a6b52ce.png" width="100%" alt="Marilyn Store"/>
         </a>
         <p>
-          <a href="https://github.com/G1anpierre/amplify-next-template" target="_blank">
+          <a href="https://github.com/G1anpierre/marilyn-store-nextjs" target="_blank">
             <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=flat-square&logo=github"/>
           </a>
-          <a href="https://main.d2l77cwzoj5zuu.amplifyapp.com/" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-Visit%20Site-success?style=flat-square&logo=amazonaws"/>
+          <a href="https://marilyn-store-nextjs.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-Visit%20Site-success?style=flat-square&logo=vercel"/>
           </a>
         </p>
-        <p><strong>Next.js, AWS Amplify Gen 2, GraphQL</strong> - Modern starter template for building full-stack applications with AWS services</p>
+        <p><strong>Next.js 14, Prisma Accelerate, Shadcn, Tailwind</strong> - Modern e-commerce platform with product management and checkout flow</p>
       </div>
     </td>
   </tr>
@@ -119,29 +119,14 @@ const skills = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1anpierre&layout=compact&theme=react&hide_border=true" alt="Gianpierre's Top Languages" height="170" />
 </div>
 
-### 💼 Professional Experience
-
-- **Senior Frontend Developer** at Marilyn Cosmetics (2022 - Present)
-  - Developed a modern e-commerce platform using Next.js and Prisma
-  - Implemented secure payment processing with Stripe integration
-  - Improved site performance by 40% through optimization techniques
-
-- **Full Stack Developer** at Tech Innovations (2020 - 2022)
-  - Built real-time dashboards with React, Node.js, and Socket.io
-  - Designed and implemented RESTful APIs for mobile and web applications
-  - Led the migration from monolithic architecture to microservices
-
-- **Web Developer** at Digital Solutions (2018 - 2020)
-  - Developed responsive websites for various clients across different industries
-  - Implemented CMS solutions using WordPress and Strapi
-  - Collaborated with UX/UI designers to create intuitive user experiences
-
 ### 🌱 Always Learning
 
 Currently exploring:
+- N8n AI automatizations for workflow optimization
+- Langchain, Langraph for advanced AI orchestration 
+- DeepLearning.AI courses and implementations
 - Advanced AI integrations with Next.js and Vercel AI SDK
 - Web3 and blockchain technology applications
-- Advanced animation techniques with Framer Motion
 - Serverless architecture patterns with AWS
 
 ### 📫 Let's Connect
